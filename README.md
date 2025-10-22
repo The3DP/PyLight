@@ -6,7 +6,7 @@ pip install pytz.
 
 You will also need a Terminal.
 (pretty much found on every existing computer)
-This is where you will be entering the code.
+This is where you will be inputting the code.
 
 # Questions?
 If you have any questions, then feel free to get answers!
